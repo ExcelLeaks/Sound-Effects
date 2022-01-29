@@ -12,5 +12,5 @@ OR
 
 Copy/Paste the below portion for credit
 
-Some/All of the Sound Effects and music portions of this video were by XEXIF
+Some/All of the Sound Effects and music portions of this video were by XEXIF.
 You can access these sound effects HERE: https://github.com/ExcelLeaks/Sound-Effects
